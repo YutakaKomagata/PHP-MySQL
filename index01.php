@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>始めようphp</title>
+	<title>始めようphp(MBA)</title>
 	<meta charset="utf-8">
 </head>
 <body>
