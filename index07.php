@@ -1,6 +1,10 @@
 <?php
 	$msg = "<p>ぼくはカエルです<br n/p>";
+	$msg .= "<p>よろしくね<br n/p>";
+	$age = 10;
+	$age ="<p>僕は{$age}才なんだよ<br n/p>";
 ?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,5 +17,8 @@
 <?php echo $msg;?>
 
 <p>PHPを覚えるぞ</p>
+
+<?php echo $age;?>
+
 </body>
 </html>

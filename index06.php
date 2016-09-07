@@ -1,5 +1,6 @@
 <?php
 	$msg = "<p>ぼくはカエルです<br n/p>";
+	$msg .= "<p>よろしくね<br n/p>";
 ?>
 <!DOCTYPE html>
 <html>
